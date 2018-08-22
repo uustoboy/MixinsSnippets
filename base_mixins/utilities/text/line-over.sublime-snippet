@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include line-over;${1:}]]></content>
+	<tabTrigger>line-over</tabTrigger>
+	<description>@line-over</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

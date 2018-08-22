@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include clear;${1:}]]></content>
+	<tabTrigger>clear</tabTrigger>
+	<description>@clear</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

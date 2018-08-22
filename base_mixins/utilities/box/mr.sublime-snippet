@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include mr(${1:});]]></content>
+	<tabTrigger>mr</tabTrigger>
+	<description>@mr</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

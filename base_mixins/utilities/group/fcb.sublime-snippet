@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include fcb(${1:});]]></content>
+	<tabTrigger>fcb</tabTrigger>
+	<description>@fcb</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

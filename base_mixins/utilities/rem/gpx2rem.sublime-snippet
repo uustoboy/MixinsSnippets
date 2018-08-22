@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gpx2rem(${1:});]]></content>
+	<tabTrigger>gpx2rem</tabTrigger>
+	<description>@gpx2rem</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

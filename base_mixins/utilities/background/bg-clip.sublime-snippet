@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include bg-clip(${1:});]]></content>
+	<tabTrigger>bg-clip</tabTrigger>
+	<description>@bg-clip</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

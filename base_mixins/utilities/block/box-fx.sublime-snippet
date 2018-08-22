@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include box-fx(${1:1});]]></content>
+	<tabTrigger>box-fx</tabTrigger>
+	<description>@box-fx</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

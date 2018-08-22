@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include maw(${1:});]]></content>
+	<tabTrigger>maw</tabTrigger>
+	<description>@maw</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$prefixWebkit:true${1:};]]></content>
+	<tabTrigger>prefixWebkit</tabTrigger>
+	<description>@$prefixWebkit</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

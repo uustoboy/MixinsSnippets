@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include line-blink;${1:}]]></content>
+	<tabTrigger>line-blink</tabTrigger>
+	<description>@line-blink</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

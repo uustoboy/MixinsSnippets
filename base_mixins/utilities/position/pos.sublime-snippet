@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include pos(${1:absolute},(t:0px,l:0,w:0,h:0,z:1));]]></content>
+	<tabTrigger>pos</tabTrigger>
+	<description>@pos</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include fx-dir(${1:});]]></content>
+	<tabTrigger>fx-dir</tabTrigger>
+	<description>@fx-dir</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

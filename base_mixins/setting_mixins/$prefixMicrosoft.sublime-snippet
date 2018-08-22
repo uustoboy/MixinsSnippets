@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$prefixMicrosoft:true${1:};]]></content>
+	<tabTrigger>prefixMicrosoft</tabTrigger>
+	<description>@$prefixMicrosoft</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include pc-label;${1:}]]></content>
+	<tabTrigger>pc-label</tabTrigger>
+	<description>@pc-label</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include no-fs;${1:}]]></content>
+	<tabTrigger>no-fs</tabTrigger>
+	<description>@no-fs</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

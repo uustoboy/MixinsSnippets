@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include bdt(1 solid #${1:});]]></content>
+	<tabTrigger>bdt</tabTrigger>
+	<description>@bdt</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

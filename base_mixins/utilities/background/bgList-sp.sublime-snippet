@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include bgList-sp(('.sprite-${1:}','.sprite-','.sprite-'),163,\$dir:x);
+]]></content>
+	<tabTrigger>bgList-sp</tabTrigger>
+	<description>@bgList-sp</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

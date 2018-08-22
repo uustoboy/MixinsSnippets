@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include pec-o(${1:});]]></content>
+	<tabTrigger>pec-o</tabTrigger>
+	<description>@pec-o</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

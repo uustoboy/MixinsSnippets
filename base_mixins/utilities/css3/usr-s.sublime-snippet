@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include usr-s(${1:});]]></content>
+	<tabTrigger>usr-s</tabTrigger>
+	<description>@usr-s</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include normal-font;${1:}]]></content>
+	<tabTrigger>normal-font</tabTrigger>
+	<description>@normal-font</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

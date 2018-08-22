@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include td(${1:});]]></content>
+	<tabTrigger>td</tabTrigger>
+	<description>@td</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

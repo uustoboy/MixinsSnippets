@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include no-resize;${1:}]]></content>
+	<tabTrigger>no-resize</tabTrigger>
+	<description>@no-resize</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include def;${1:}]]></content>
+	<tabTrigger>def</tabTrigger>
+	<description>@def</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include ofv;${1:}]]></content>
+	<tabTrigger>ofv</tabTrigger>
+	<description>@ofv</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

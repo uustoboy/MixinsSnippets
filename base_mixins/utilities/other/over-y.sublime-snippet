@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include over-y(auto${1:});]]></content>
+	<tabTrigger>over-y</tabTrigger>
+	<description>@over-y</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

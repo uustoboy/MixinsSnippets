@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include cnt(${1:});]]></content>
+	<tabTrigger>cnt</tabTrigger>
+	<description>@cnt</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

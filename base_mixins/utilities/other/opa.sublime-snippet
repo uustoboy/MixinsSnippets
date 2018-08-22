@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include opa(0.9${1:});]]></content>
+	<tabTrigger>opa</tabTrigger>
+	<description>@opa</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

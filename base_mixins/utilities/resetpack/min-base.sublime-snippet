@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include min-base(${1:1000});]]></content>
+	<tabTrigger>min-base</tabTrigger>
+	<description>@min-base</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

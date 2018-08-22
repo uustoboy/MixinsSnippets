@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$global-unit:px${1:};]]></content>
+	<tabTrigger>global-unit</tabTrigger>
+	<description>@$global-unit</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

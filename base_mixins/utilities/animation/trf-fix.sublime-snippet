@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include trf-fix;${1:}]]></content>
+	<tabTrigger>trf-fix</tabTrigger>
+	<description>@trf-fix</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

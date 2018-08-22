@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include no-bdtb;${1:}]]></content>
+	<tabTrigger>no-bdtb</tabTrigger>
+	<description>@no-bdtb</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

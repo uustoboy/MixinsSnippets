@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include box-o(${1:});]]></content>
+	<tabTrigger>box-o</tabTrigger>
+	<description>@box-o</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

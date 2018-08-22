@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include no-bdrl;${1:}]]></content>
+	<tabTrigger>no-bdrl</tabTrigger>
+	<description>@no-bdrl</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

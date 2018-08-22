@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include ani(${1:});]]></content>
+	<tabTrigger>ani</tabTrigger>
+	<description>@ani</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

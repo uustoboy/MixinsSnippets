@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include triangle-topleft<(${1:10},#);]]></content>
+	<tabTrigger>triangle-topleft</tabTrigger>
+	<description>@triangle-topleft</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

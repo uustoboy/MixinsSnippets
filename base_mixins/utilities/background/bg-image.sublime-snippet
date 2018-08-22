@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include bg-image('#{\$BG_URL}img${1:}.jpg',\$position:0 0);]]></content>
+	<tabTrigger>bg-image</tabTrigger>
+	<description>@bg-image</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

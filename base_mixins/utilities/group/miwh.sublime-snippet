@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include miwh(${1:});]]></content>
+	<tabTrigger>miwh</tabTrigger>
+	<description>@miwh</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

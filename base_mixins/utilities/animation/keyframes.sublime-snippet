@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+@include keyframes(animation-name) {                                              
+	0% { 
+		${1:}
+	}                                                                
+    100% {                                                                 
+
+    }                                                              
+}  
+   ]]></content>
+	<tabTrigger>keyframes</tabTrigger>
+	<description>@base_mixins keyframes</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

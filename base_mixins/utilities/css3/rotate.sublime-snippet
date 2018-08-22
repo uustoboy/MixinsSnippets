@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include rotate(${1:});]]></content>
+	<tabTrigger>rotate</tabTrigger>
+	<description>@rotate</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

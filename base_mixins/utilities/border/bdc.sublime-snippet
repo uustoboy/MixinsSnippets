@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include bdc(#${1:});]]></content>
+	<tabTrigger>bdc</tabTrigger>
+	<description>@bdc</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

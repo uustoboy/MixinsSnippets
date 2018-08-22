@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include odr(${1:1});]]></content>
+	<tabTrigger>odr</tabTrigger>
+	<description>@odr</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include no-box-s(${1:});]]></content>
+	<tabTrigger>no-box-s</tabTrigger>
+	<description>@no-box-s</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

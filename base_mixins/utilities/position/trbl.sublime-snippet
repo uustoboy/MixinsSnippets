@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include trbl(${1:});]]></content>
+	<tabTrigger>trbl</tabTrigger>
+	<description>@trbl</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

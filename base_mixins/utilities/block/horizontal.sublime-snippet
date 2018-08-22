@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include horizontal;${1:}]]></content>
+	<tabTrigger>horizontal</tabTrigger>
+	<description>@horizontal</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include box-a(${1:});]]></content>
+	<tabTrigger>box-a</tabTrigger>
+	<description>@box-a</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

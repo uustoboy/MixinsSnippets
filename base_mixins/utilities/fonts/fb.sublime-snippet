@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include fb(${1:});]]></content>
+	<tabTrigger>fb</tabTrigger>
+	<description>@fb</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

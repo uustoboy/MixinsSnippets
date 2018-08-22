@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$vendors:webkit moz ms o${1:};]]></content>
+	<tabTrigger>vendors</tabTrigger>
+	<description>@$vendors</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include css3(${1:});]]></content>
+	<tabTrigger>css3</tabTrigger>
+	<description>@css3</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

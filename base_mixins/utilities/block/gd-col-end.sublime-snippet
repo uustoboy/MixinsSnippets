@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include gd-col-end(${1:});]]></content>
+	<tabTrigger>gd-col-end</tabTrigger>
+	<description>@gd-col-end</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

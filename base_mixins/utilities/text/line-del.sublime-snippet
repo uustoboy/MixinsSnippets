@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include line-del;${1:}]]></content>
+	<tabTrigger>line-del</tabTrigger>
+	<description>@line-del</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

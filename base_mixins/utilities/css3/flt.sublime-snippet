@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include flt(${1:});]]></content>
+	<tabTrigger>flt</tabTrigger>
+	<description>@flt</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

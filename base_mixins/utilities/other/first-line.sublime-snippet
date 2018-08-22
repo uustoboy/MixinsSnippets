@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include first-line(${1:#});]]></content>
+	<tabTrigger>first-line</tabTrigger>
+	<description>@first-line</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

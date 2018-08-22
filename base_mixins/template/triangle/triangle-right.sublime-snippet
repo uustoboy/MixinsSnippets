@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include triangle-right(${1:10},10,#);]]></content>
+	<tabTrigger>triangle-right</tabTrigger>
+	<description>@triangle-right</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

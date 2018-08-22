@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include cursor(${1:});]]></content>
+	<tabTrigger>cursor</tabTrigger>
+	<description>@cursor</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

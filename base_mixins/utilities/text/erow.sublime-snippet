@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include erow(${1:2});]]></content>
+	<tabTrigger>erow</tabTrigger>
+	<description>@erow</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

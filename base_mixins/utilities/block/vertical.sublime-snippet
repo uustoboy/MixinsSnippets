@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include vertical;${1:}]]></content>
+	<tabTrigger>vertical</tabTrigger>
+	<description>@vertical</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

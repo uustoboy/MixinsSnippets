@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include cut-line2(0${1:} 10px,#999,14);]]></content>
+	<tabTrigger>cut-line2</tabTrigger>
+	<description>@cut-line2</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

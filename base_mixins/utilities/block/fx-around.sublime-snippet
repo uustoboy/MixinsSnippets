@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include fx-around(${1:});]]></content>
+	<tabTrigger>fx-around</tabTrigger>
+	<description>@fx-around</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include gd-row-gap(${1:});]]></content>
+	<tabTrigger>gd-row-gap</tabTrigger>
+	<description>@gd-row-gap</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

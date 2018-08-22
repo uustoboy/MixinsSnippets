@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include float(${1:});]]></content>
+	<tabTrigger>float</tabTrigger>
+	<description>@float</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

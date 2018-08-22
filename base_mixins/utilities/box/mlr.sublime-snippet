@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include mlr(${1:});]]></content>
+	<tabTrigger>mlr</tabTrigger>
+	<description>@mlr</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

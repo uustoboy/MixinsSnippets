@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include ani-play(${1:});]]></content>
+	<tabTrigger>ani-play</tabTrigger>
+	<description>@ani-play</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

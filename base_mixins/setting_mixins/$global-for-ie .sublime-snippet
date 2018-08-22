@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$global-for-ie:true${1:};]]></content>
+	<tabTrigger>global-for-ie</tabTrigger>
+	<description>@$global-for-ie</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

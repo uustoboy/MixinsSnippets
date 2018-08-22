@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$prefixMozilla:true${1:};]]></content>
+	<tabTrigger>prefixMozilla</tabTrigger>
+	<description>@$prefixMozilla</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

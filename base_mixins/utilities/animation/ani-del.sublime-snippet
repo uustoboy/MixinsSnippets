@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include ani-del(${1:});]]></content>
+	<tabTrigger>ani-del</tabTrigger>
+	<description>@ani-del</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

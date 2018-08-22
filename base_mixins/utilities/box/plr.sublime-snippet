@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include plr(${1:});]]></content>
+	<tabTrigger>plr</tabTrigger>
+	<description>@plr</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

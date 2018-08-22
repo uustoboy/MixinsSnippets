@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include assist-font(##b0b0b0${1:},14);]]></content>
+	<tabTrigger>assist-font</tabTrigger>
+	<description>@assist-font</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include trf(${1:});]]></content>
+	<tabTrigger>trf</tabTrigger>
+	<description>@trf</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

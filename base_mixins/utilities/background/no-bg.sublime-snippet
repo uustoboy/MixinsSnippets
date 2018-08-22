@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include no-bg(${1:});]]></content>
+	<tabTrigger>no-bg</tabTrigger>
+	<description>@no-bg</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

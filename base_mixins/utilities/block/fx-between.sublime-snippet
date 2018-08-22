@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include fx-between(${1:});]]></content>
+	<tabTrigger>fx-between</tabTrigger>
+	<description>@fx-between</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

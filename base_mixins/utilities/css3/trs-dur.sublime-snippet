@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include trs-dur(${1:});]]></content>
+	<tabTrigger>trs-dur</tabTrigger>
+	<description>@trs-dur</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

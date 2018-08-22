@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include vib;${1:}]]></content>
+	<tabTrigger>vib</tabTrigger>
+	<description>@vib</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

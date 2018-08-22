@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include oln-o(${1:});]]></content>
+	<tabTrigger>oln-o</tabTrigger>
+	<description>@oln-o</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

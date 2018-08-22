@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include gd-area(${1:});]]></content>
+	<tabTrigger>gd-area</tabTrigger>
+	<description>@gd-area</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

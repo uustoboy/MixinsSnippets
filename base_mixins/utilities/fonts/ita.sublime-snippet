@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include ita(${1:});]]></content>
+	<tabTrigger>ita</tabTrigger>
+	<description>@ita</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

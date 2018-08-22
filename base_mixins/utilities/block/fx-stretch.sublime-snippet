@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include fx-stretch(${1:});]]></content>
+	<tabTrigger>fx-stretch</tabTrigger>
+	<description>@fx-stretch</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

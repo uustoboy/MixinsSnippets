@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include bgr(${1:});]]></content>
+	<tabTrigger>bgr</tabTrigger>
+	<description>@bgr</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

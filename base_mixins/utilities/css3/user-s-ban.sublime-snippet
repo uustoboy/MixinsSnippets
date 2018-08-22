@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include user-s-ban(${1:});]]></content>
+	<tabTrigger>user-s-ban</tabTrigger>
+	<description>@user-s-ban</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

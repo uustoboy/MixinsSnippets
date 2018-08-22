@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include fx-center(${1:});]]></content>
+	<tabTrigger>fx-center</tabTrigger>
+	<description>@fx-center</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

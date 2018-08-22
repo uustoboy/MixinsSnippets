@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include ml(${1:});]]></content>
+	<tabTrigger>ml</tabTrigger>
+	<description>@ml</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

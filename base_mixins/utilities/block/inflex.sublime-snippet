@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include inflex;${1:}]]></content>
+	<tabTrigger>inflex</tabTrigger>
+	<description>@inflex</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

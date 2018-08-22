@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include no-text-s(${1:});]]></content>
+	<tabTrigger>no-text-s</tabTrigger>
+	<description>@no-text-s</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

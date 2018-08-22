@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include hide-text(${1:});]]></content>
+	<tabTrigger>hide-text</tabTrigger>
+	<description>@hide-text</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

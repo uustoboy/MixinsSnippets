@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include @include bg-sp2('.sprite-ico${1:}',2,3,163,\$dir:y);]]></content>
+	<tabTrigger>bg-sp2</tabTrigger>
+	<description>@bg-sp2</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

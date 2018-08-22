@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$prefixNo:false${1:};]]></content>
+	<tabTrigger>prefixNo</tabTrigger>
+	<description>@$prefixNo</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

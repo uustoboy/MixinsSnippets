@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include transparent-text;${1:}]]></content>
+	<tabTrigger>transparent-text</tabTrigger>
+	<description>@transparent-text</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

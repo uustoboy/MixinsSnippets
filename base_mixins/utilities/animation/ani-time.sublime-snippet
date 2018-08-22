@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include ani-time(${1:});]]></content>
+	<tabTrigger>ani-time</tabTrigger>
+	<description>@ani-time</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include over(${1:});]]></content>
+	<tabTrigger>over</tabTrigger>
+	<description>@over</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

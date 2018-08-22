@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include ti(${1:2em});]]></content>
+	<tabTrigger>ti</tabTrigger>
+	<description>@ti</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

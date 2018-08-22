@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include layout-page(${1:});]]></content>
+	<tabTrigger>layout-page</tabTrigger>
+	<description>@layout-page</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

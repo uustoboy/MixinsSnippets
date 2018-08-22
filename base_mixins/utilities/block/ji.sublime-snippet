@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include ji(${1:});]]></content>
+	<tabTrigger>ji</tabTrigger>
+	<description>@ji</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

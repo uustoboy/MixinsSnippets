@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include gd-t-cols(${1:});]]></content>
+	<tabTrigger>gd-t-cols</tabTrigger>
+	<description>@gd-t-cols</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

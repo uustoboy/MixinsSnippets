@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include hide-cur;${1:}]]></content>
+	<tabTrigger>hide-cur</tabTrigger>
+	<description>@hide-cur</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

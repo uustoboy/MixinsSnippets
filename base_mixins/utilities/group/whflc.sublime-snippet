@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include whflc(${1:});]]></content>
+	<tabTrigger>whflc</tabTrigger>
+	<description>@whflc</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

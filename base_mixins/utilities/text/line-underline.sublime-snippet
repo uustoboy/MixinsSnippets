@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include line-underline;${1:}]]></content>
+	<tabTrigger>line-underline</tabTrigger>
+	<description>@line-underline</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[px2rem(${1:});]]></content>
+	<tabTrigger>px2rem</tabTrigger>
+	<description>@px2rem</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

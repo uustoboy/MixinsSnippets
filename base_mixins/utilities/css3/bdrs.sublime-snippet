@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include bdrs(${1:});]]></content>
+	<tabTrigger>bdrs</tabTrigger>
+	<description>@bdrs</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

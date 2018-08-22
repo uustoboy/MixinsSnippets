@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include mobile-label;${1:}]]></content>
+	<tabTrigger>mobile-label</tabTrigger>
+	<description>@mobile-label</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include fx-baseline;${1:}]]></content>
+	<tabTrigger>fx-baseline</tabTrigger>
+	<description>@fx-baseline</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

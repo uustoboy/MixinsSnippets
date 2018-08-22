@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include pe(${1:});]]></content>
+	<tabTrigger>pe</tabTrigger>
+	<description>@pe</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

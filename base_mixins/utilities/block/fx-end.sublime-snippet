@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include fx-end(${1:});]]></content>
+	<tabTrigger>fx-end</tabTrigger>
+	<description>@fx-end</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

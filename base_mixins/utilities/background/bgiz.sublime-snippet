@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include bgiz(${1:});]]></content>
+	<tabTrigger>bgiz</tabTrigger>
+	<description>@bgiz</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

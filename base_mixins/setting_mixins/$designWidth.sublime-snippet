@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$designWidth:640${1:};]]></content>
+	<tabTrigger>designWidth</tabTrigger>
+	<description>@$designWidth</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

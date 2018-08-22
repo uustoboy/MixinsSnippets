@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include mmw(${1:});]]></content>
+	<tabTrigger>mmw</tabTrigger>
+	<description>@mmw</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

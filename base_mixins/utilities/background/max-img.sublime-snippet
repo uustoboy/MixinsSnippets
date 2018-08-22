@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include max-img;${1:}]]></content>
+	<tabTrigger>max-img</tabTrigger>
+	<description>@max-img</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

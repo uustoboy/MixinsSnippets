@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+@include beauty-placeholder2{
+	color:#ccc;
+	font-size: 12px;
+};${1:}
+]]></content>
+	<tabTrigger>beauty-placeholder2</tabTrigger>
+	<description>@beauty-placeholder2</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

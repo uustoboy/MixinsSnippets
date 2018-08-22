@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include first-letter(${1:2em});]]></content>
+	<tabTrigger>first-letter</tabTrigger>
+	<description>@first-letter</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

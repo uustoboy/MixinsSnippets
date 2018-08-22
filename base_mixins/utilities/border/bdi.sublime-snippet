@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include bdi(url('#{\$BG_URL}img${1:}.png') 0 0 round);]]></content>
+	<tabTrigger>bdi</tabTrigger>
+	<description>@bdi</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

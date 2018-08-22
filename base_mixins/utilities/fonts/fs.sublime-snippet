@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include fs(${1:});]]></content>
+	<tabTrigger>fs</tabTrigger>
+	<description>@fs</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

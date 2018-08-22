@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include bgo(${1:});]]></content>
+	<tabTrigger>bgo</tabTrigger>
+	<description>@bgo</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

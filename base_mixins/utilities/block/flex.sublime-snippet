@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include flex;${1:}]]></content>
+	<tabTrigger>flex</tabTrigger>
+	<description>@flex</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

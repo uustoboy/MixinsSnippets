@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include as(${1:});]]></content>
+	<tabTrigger>as</tabTrigger>
+	<description>@as</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

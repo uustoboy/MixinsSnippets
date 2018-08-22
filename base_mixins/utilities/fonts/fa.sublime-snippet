@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include fa(${1:});]]></content>
+	<tabTrigger>fa</tabTrigger>
+	<description>@fa</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

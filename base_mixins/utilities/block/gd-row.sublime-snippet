@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include gd-row(${1:});]]></content>
+	<tabTrigger>gd-row</tabTrigger>
+	<description>@gd-row</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

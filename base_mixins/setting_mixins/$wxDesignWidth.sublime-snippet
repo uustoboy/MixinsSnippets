@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$wxDesignWidth:750${1:};]]></content>
+	<tabTrigger>wxDesignWidth</tabTrigger>
+	<description>@$wxDesignWidth</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include vit;${1:}]]></content>
+	<tabTrigger>vit</tabTrigger>
+	<description>@vit</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include ai(${1:});]]></content>
+	<tabTrigger>ai</tabTrigger>
+	<description>@ai</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

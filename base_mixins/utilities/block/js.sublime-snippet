@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include js(${1:});]]></content>
+	<tabTrigger>js</tabTrigger>
+	<description>@js</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

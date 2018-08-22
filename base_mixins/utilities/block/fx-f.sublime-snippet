@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include fx-f(${1:});]]></content>
+	<tabTrigger>fx-f</tabTrigger>
+	<description>@fx-f</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

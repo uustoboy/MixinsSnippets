@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include flh(${1:});]]></content>
+	<tabTrigger>flh</tabTrigger>
+	<description>@flh</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

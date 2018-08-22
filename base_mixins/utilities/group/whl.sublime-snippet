@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include whl(${1:});]]></content>
+	<tabTrigger>whl</tabTrigger>
+	<description>@whl</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

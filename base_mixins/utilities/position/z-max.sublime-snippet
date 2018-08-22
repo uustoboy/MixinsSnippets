@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include z-max;${1:}]]></content>
+	<tabTrigger>z-max</tabTrigger>
+	<description>@z-max</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include mah(${1:});]]></content>
+	<tabTrigger>mah</tabTrigger>
+	<description>@mah</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>
