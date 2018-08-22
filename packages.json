@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "packages": [
     {
-      "name": "mixins snippets",
+      "name": "Mixins Snippets",
       "description": "base_mixins snippets",
       "author": "uustoboy",
       "homepage": "https://github.com/uustoboy/MixinsSnippets",
