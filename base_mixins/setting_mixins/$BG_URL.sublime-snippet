@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$BG_URL:"../i/"; //路径;${1:}]]></content>
+	<tabTrigger>BG_URL</tabTrigger>
+	<description>@$BG_URL</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

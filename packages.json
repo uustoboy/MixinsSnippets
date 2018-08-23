@@ -6,13 +6,13 @@
       "description": "base_mixins snippets",
       "author": "uustoboy",
       "homepage": "https://github.com/uustoboy/MixinsSnippets",
-      "last_modified": "2018-08-22 17:53:00",
+      "last_modified": "2018-08-23 14:35:00",
       "readme": "https://raw.github.com/uustoboy/MixinsSnippets/master/README.md",
       "labels": ["scss snippets"],
       "platforms": {
         "*": [
           {
-            "version": "1.0.0",
+            "version": "1.0.1",
             "url": "https://codeload.github.com/uustoboy/MixinsSnippets/zip/master"
           }
         ]

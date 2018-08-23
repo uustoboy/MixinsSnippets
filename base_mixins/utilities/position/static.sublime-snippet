@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[@include static((${1:t:0px},l:0,w:0,h:0,z:1));]]></content>
+	<content><![CDATA[@include static((${1:t:0},l:0,w:0,h:0,z:1));]]></content>
 	<tabTrigger>static</tabTrigger>
 	<description>@static</description>
 	<scope>source.scss, source.sass</scope>

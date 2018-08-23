@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@import:"./base_mixins/_base_mixins.scss";${1:}]]></content>
+	<tabTrigger>import</tabTrigger>
+	<description>@base_mixins @import</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>
