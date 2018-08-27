@@ -2,7 +2,7 @@
 =======================
 [![GitHub stars](https://img.shields.io/github/stars/uustoboy/MixinsSnippets.svg?style=social&label=Star%20on%20Github)](https://github.com/uustoboy/MixinsSnippets)
 
-# 为 [base_mixins](https://github.com/uustoboy/base_mixins) 做的 Sublime Text 提示插件(Package Control 发布不了)
+# 为 [base_mixins](https://github.com/uustoboy/base_mixins) 做的 Sublime Text 
 
 ### 使用:
 <table>
