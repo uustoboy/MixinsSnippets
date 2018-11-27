@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[@include bg('#{\$BG_URL}img${1:}.jpg',\$position:0 0);]]></content>
+	<content><![CDATA[@include bgi('#{\$BG_URL}img${1:}.jpg',\$position:0 0);]]></content>
 	<tabTrigger>bgi</tabTrigger>
 	<description>@bgi</description>
 	<scope>source.scss, source.sass</scope>
